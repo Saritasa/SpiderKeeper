@@ -8,7 +8,7 @@ packages = [{include = "SpiderKeeper"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-alembic = "^1.10.2"
+alembic = "^1.10.4"
 aniso8601 = "^9.0.1"
 APScheduler = "^3.10.1"
 click = "^8.1.3"
