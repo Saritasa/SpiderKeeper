@@ -1,3 +1,5 @@
+# Deprecated ⚠️
+Moved to https://github.com/saritasa-nest/usummit-spiderkeeper
 # SpiderKeeper
 
 [![Latest Version](http://img.shields.io/pypi/v/SpiderKeeper.svg)](https://pypi.python.org/pypi/SpiderKeeper)
